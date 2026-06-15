@@ -1,0 +1,5 @@
+var x;
+
+read(x);
+
+write(x);

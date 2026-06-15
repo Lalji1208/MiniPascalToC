@@ -1,0 +1,16 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java
+*.class
+bin/
+
+# Generated files
+output/output.c
+output/error.invalid
+
+# OS
+.DS_Store
+Thumbs.db
